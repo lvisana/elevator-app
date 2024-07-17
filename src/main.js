@@ -3,3 +3,4 @@ import App from './App.vue'
 import './assets/style/style.css';
 
 createApp(App).mount('#app')
+App.mount('#app')
